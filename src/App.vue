@@ -8,7 +8,7 @@
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
-import Esercizio from './components/Esercizio.vue'
+import Esercizio from './components/Title.vue'
 export default {
   name: 'App',
   components: {
