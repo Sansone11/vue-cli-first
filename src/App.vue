@@ -8,12 +8,12 @@
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
-import esercizio from './components/esercizio.vue'
+import Esercizio from './components/Esercizio.vue'
 export default {
   name: 'App',
   components: {
     HelloWorld,
-    sercizio,
+    Esercizio,
   }
 }
 </script>
